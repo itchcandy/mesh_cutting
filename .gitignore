@@ -1,0 +1,10 @@
+build/
+bld/
+Temp/
+[Oo]bj/
+Library/
+*.csproj
+*.sln
+.vscode/
+Logs/
+*.swp
